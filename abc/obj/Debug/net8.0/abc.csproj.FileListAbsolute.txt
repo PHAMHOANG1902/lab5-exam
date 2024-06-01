@@ -1,0 +1,14 @@
+/Users/phamnhathoang/abc/abc/bin/Debug/net8.0/abc
+/Users/phamnhathoang/abc/abc/bin/Debug/net8.0/abc.deps.json
+/Users/phamnhathoang/abc/abc/bin/Debug/net8.0/abc.runtimeconfig.json
+/Users/phamnhathoang/abc/abc/bin/Debug/net8.0/abc.dll
+/Users/phamnhathoang/abc/abc/bin/Debug/net8.0/abc.pdb
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/abc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/abc.AssemblyInfoInputs.cache
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/abc.AssemblyInfo.cs
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/abc.csproj.CoreCompileInputs.cache
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/abc.dll
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/refint/abc.dll
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/abc.pdb
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/abc.genruntimeconfig.cache
+/Users/phamnhathoang/abc/abc/obj/Debug/net8.0/ref/abc.dll
